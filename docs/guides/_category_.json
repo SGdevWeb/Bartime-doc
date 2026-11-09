@@ -1,0 +1,9 @@
+{
+  "label": "Guides",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "title": "Guides par rôle",
+    "description": "Les fonctions de BarTime détaillées selon votre rôle : administrateur, barman ou adhérent."
+  }
+}

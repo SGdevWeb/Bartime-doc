@@ -1,0 +1,33 @@
+/**
+ * Palette BarTime — identique à bartime.app (assets/css/styles.css).
+ * Primaire : #457b9d · Secondaire : #21808d · Texte : #1f2121
+ */
+
+:root {
+  --ifm-color-primary: #457b9d;
+  --ifm-color-primary-dark: #3d6e8c;
+  --ifm-color-primary-darker: #3a6885;
+  --ifm-color-primary-darkest: #2f5569;
+  --ifm-color-primary-light: #5a8cb0;
+  --ifm-color-primary-lighter: #6393b5;
+  --ifm-color-primary-lightest: #7fadce;
+  --ifm-color-secondary: #21808d;
+  --ifm-code-font-size: 95%;
+  --ifm-font-family-base:
+    Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial,
+    sans-serif;
+  --docusaurus-highlighted-code-line-bg: rgba(69, 123, 157, 0.12);
+}
+
+/* Mode sombre : teintes plus claires pour la lisibilité. */
+[data-theme="dark"] {
+  --ifm-color-primary: #7db4d6;
+  --ifm-color-primary-dark: #67a6cd;
+  --ifm-color-primary-darker: #5b9fc8;
+  --ifm-color-primary-darkest: #3d84b5;
+  --ifm-color-primary-light: #93c2de;
+  --ifm-color-primary-lighter: #9fc9e2;
+  --ifm-color-primary-lightest: #b9d9ed;
+  --ifm-color-secondary: #4db3c0;
+  --docusaurus-highlighted-code-line-bg: rgba(125, 180, 214, 0.15);
+}
