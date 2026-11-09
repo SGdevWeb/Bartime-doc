@@ -6,9 +6,9 @@ description: Essai gratuit, formules mensuelle et annuelle, achat dans l'app, fa
 
 # Abonnement
 
-## Votre essai :2 mois gratuits
+## Votre essai : 2 mois gratuits
 
-Dès la création de votre association, un **essai de2 mois** démarre
+Dès la création de votre association, un **essai de 2 mois** démarre
 automatiquement — **toutes les formules sont incluses**, sans carte
 bancaire et sans engagement.
 
@@ -17,10 +17,10 @@ Son statut est visible dans **Paramètres → Facturation**.
 
 ## Les formules
 
-| Formule       | Prix                                  | Pour qui                                       |
-| ------------- | ------------------------------------- | ---------------------------------------------- |
-| **Mensuelle** | **2,99 € / mois**                     | Les clubs qui veulent démarrer sans engagement |
-| **Annuelle**  | **24,99 € / an** (soit2 mois offerts) | Les clubs qui veulent le meilleur tarif        |
+| Formule       | Prix                                   | Pour qui                                       |
+| ------------- | -------------------------------------- | ---------------------------------------------- |
+| **Mensuelle** | **2,99 € / mois**                      | Les clubs qui veulent démarrer sans engagement |
+| **Annuelle**  | **24,99 € / an** (soit 2 mois offerts) | Les clubs qui veulent le meilleur tarif        |
 
 Les deux formules donnent **accès à toutes les fonctionnalités** : il n'y
 a aucun palier ni fonction réservée.
@@ -47,7 +47,7 @@ paiement est géré par Apple, avec les protections du store.
 
 ## L'essai se termine, et après ?
 
-À la fin des2 mois sans abonnement souscrit, l'accès aux fonctions de
+À la fin des 2 mois sans abonnement souscrit, l'accès aux fonctions de
 **gestion et d'encaissement est suspendu** jusqu'à la souscription :
 rien n'est supprimé — soldes, historique et produits sont conservés. Il
 suffit de souscrire depuis **Paramètres → Facturation** pour tout

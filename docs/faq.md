@@ -8,7 +8,7 @@ description: Les réponses aux questions les plus fréquentes sur BarTime.
 
 ## Essai et abonnement
 
-### Que se passe-t-il après les2 mois d'essai ?
+### Que se passe-t-il après les 2 mois d'essai ?
 
 Si aucun abonnement n'est souscrit à la fin de l'essai, l'accès aux
 fonctions de gestion et d'encaissement est **suspendu** (rien n'est
@@ -31,7 +31,7 @@ vos données bancaires.
 ### Comment inviter un adhérent ?
 
 **Paramètres → Gestion des adhérents → Ajouter** : nom et email →
-l'invitation part avec un lien d'activation valable48 h.
+l'invitation part avec un lien d'activation valable 48h.
 
 ### L'adhérent n'a pas reçu l'email d'invitation
 
@@ -74,7 +74,7 @@ Réglable dans **Paramètres → Réglages de l'association**.
 
 ### Comment exporter la comptabilité ?
 
-**Paramètres → Exports comptables** : CSV, XLSX (détaillé, mensuel,
+**Paramètres → Exports comptables** : XLSX (détaillé, mensuel,
 annuel) et rapport comptable — prêts pour le trésorier ou le
 comptable.
 
@@ -94,4 +94,4 @@ l'anonymisation conserve l'historique des transactions de l'association.
 ## Autre chose ?
 
 Écrivez-nous : [hello@bartime.app](mailto:hello@bartime.app) — nous
-répondons en général sous24 h ouvrées.
+répondons en général sous 24 h ouvrées.

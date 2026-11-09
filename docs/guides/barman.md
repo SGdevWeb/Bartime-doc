@@ -10,14 +10,13 @@ Le mode **barman** est celui des jours de buvette : rapide, efficace,
 une main sur le téléphone.
 
 :::info
-Votre administrateur vous a invité par email ? Activez votre compte puis
-utilisez l'onglet **Carte** : c'est le cœur de votre métier de barman.
+Votre administrateur vous a activé ? Utilisez l'onglet **Carte** : c'est le cœur de votre métier de barman.
 :::
 
 ## La Carte (accueil du barman)
 
 - Les produits sont classés par **catégories**.
-- **Touchez un produit** pour l'ajouter au panier.
+- **Touchez le bouton + d'un produit** pour l'ajouter au panier.
 - L'onglet **Commande** affiche le **nombre d'articles** en cours.
 - Un **+** / **–** sur l'article ajuste la quantité (dans la commande).
 
@@ -66,16 +65,14 @@ Onglet **Recharge** :
    l'historique de l'adhérent.
 
 :::tip
-La recharge en espèces alimente le tiroir-caisse : pensez à l'encaisser
-dans le même sens que les ventes pour que le comptage de fin de journée
-corrige.
+La recharge en espèces alimente le tiroir-caisse : elle fera partie du comptage de fin de journée.
 :::
 
 ## Mode cadeau
 
-Si l'administrateur a activé le **mode cadeau** dans les réglages, un
+Si l'administrateur a activé le **mode offre** dans les réglages, un
 interrupteur **« Offrir »** apparaît dans la commande : les produits
-ajoutés sont enregistrés à0 € (lotos, tombolas, animations).
+ajoutés sont enregistrés à 0€.
 
 ## Session de caisse (mode avancé uniquement)
 

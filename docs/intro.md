@@ -29,7 +29,7 @@ créé l'association sur BarTime — c'est lui qui invite les autres.
 ## Par où commencer ?
 
 1. [**Démarrage rapide**](./quick-start) — créer votre compte, découvrir
-   l'essai gratuit de2 mois et réaliser votre premier encaissement.
+   l'essai gratuit de 2 mois et réaliser votre premier encaissement.
 2. [**Guides par rôle**](./guides/administrateur) — les fonctions détaillées
    pour l'administrateur, le barman et l'adhérent.
 3. [**Abonnement**](./abonnement) — essai, formules, achat et résiliation.

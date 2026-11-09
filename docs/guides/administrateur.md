@@ -22,12 +22,12 @@ toutes les fonctions de gestion depuis l'onglet **Paramètres**.
 
 - Les catégories structurent l'affichage de la carte (une catégorie par
   section).
-- À la création de l'association,7 catégories par défaut sont générées
+- À la création de l'association, 7 catégories par défaut sont générées
   (Bières, Softs, Vins, Apéritifs, Snacks, Boissons chaudes, Autres).
 
 :::tip
-Gardez une carte courte et lisible :15 à25 produits maximum facilitent
-l'encaissement des jours de affluence.
+Gardez une carte courte et lisible : 15 à 25 produits maximum facilitent
+l'encaissement des jours d'affluence.
 :::
 
 ## Gestion des adhérents et des rôles
@@ -39,7 +39,7 @@ l'encaissement des jours de affluence.
 | **Ajouter un adhérent** | « Ajouter » → nom + email → invitation par email avec lien d'activation (48 h) |
 | **Rechercher**          | Par nom pour vérifier un solde rapidement                                      |
 | **Modifier**            | Nom, email de l'adhérent                                                       |
-| **Supprimer**           | Retire l'adhérent de l'association                                             |
+| **Supprimer**           | Retire l'adhérent de l'association. Visible dans l'onglet **Anciens membres**  |
 
 **Rôles disponibles** (définis à l'ajout ou à la modification) :
 
@@ -73,16 +73,15 @@ parti ou de le réactiver dans l'association.
 **Paramètres → Réglages de l'association** :
 
 - **TVA** : activation et affichage sur les produits ;
-- **Modes de paiement acceptés** : carte bancaire, crédit, mode cadeau ;
-- **Fond de caisse** par défaut ;
 - **Mode de caisse** : _simple_ (par défaut, aucune session à gérer) ou
   _avancé_ (ouverture/fermeture de session avec comptage).
+- **Mode offre** : possibilité d'offrir des consommations.
+- **Modes de paiement acceptés** : carte bancaire, crédit, mode cadeau ;
 
 ## Comptabilité : exports
 
 **Paramètres → Exports comptables** :
 
-- Export **CSV** de l'historique ;
 - Exports **XLSX** : détaillé, mensuel, annuel ;
 - **Rapport comptable** synthétique ;
 - Export d'une **session de caisse** (mode avancé).
@@ -97,7 +96,7 @@ quels au comptable du club.
 - Statut de votre **essai** ou de votre abonnement ;
 - Choix de la formule (**mensuelle** ou **annuelle**) ;
 - Achat de l'abonnement directement dans l'app (App Store) ;
-- Historique des factures.
+- Historique des factures disponible directement sur votre compte Apple.
 
 Tout est détaillé dans le guide [Abonnement](../abonnement).
 

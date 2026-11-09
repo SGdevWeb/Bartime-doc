@@ -14,7 +14,7 @@ Votre espace personnel se trouve dans l'app BarTime, onglets
 L'écran **Accueil** affiche en grand votre **solde disponible** en euros.
 
 - Les **recharges** (effectuées par le barman en espèces ou carte)
-  créditez votre compte ;
+  créditent votre compte ;
 - Les **achats payés en crédit** le débitent ;
 - Un solde légèrement négatif est possible : c'est un crédit utilisé
   auprès du club, à régulariser lors d'une prochaine recharge.
