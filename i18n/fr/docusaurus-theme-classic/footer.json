@@ -1,0 +1,50 @@
+{
+  "link.title.BarTime": {
+    "message": "BarTime",
+    "description": "The title of the footer links column with title=BarTime in the footer"
+  },
+  "link.title.Documentation": {
+    "message": "Documentation",
+    "description": "The title of the footer links column with title=Documentation in the footer"
+  },
+  "link.title.Contact": {
+    "message": "Contact",
+    "description": "The title of the footer links column with title=Contact in the footer"
+  },
+  "link.item.label.Fonctionnalités": {
+    "message": "Fonctionnalités",
+    "description": "The label of footer link with label=Fonctionnalités linking to https://bartime.app/#fonctionnalites"
+  },
+  "link.item.label.Conditions d'utilisation": {
+    "message": "Conditions d'utilisation",
+    "description": "The label of footer link with label=Conditions d'utilisation linking to https://bartime.app/terms/"
+  },
+  "link.item.label.Politique de confidentialité": {
+    "message": "Politique de confidentialité",
+    "description": "The label of footer link with label=Politique de confidentialité linking to https://bartime.app/privacy/"
+  },
+  "link.item.label.Démarrer ici": {
+    "message": "Démarrer ici",
+    "description": "The label of footer link with label=Démarrer ici linking to /docs/intro"
+  },
+  "link.item.label.Démarrage rapide": {
+    "message": "Démarrage rapide",
+    "description": "The label of footer link with label=Démarrage rapide linking to /docs/quick-start"
+  },
+  "link.item.label.FAQ": {
+    "message": "FAQ",
+    "description": "The label of footer link with label=FAQ linking to /docs/faq"
+  },
+  "link.item.label.hello@bartime.app": {
+    "message": "hello@bartime.app",
+    "description": "The label of footer link with label=hello@bartime.app linking to mailto:hello@bartime.app"
+  },
+  "link.item.label.bartime.app": {
+    "message": "bartime.app",
+    "description": "The label of footer link with label=bartime.app linking to https://bartime.app"
+  },
+  "copyright": {
+    "message": "Copyright © 2026 BarTime — Tous droits réservés.",
+    "description": "The footer copyright"
+  }
+}

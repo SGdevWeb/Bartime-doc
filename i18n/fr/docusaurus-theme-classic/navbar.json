@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "BarTime",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Logo BarTime",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Documentation": {
+    "message": "Documentation",
+    "description": "Navbar item with label Documentation"
+  },
+  "item.label.Site web": {
+    "message": "Site web",
+    "description": "Navbar item with label Site web"
+  },
+  "item.label.Contact": {
+    "message": "Contact",
+    "description": "Navbar item with label Contact"
+  }
+}

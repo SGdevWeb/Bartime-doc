@@ -33,7 +33,8 @@ const config: Config = {
       {
         docs: {
           sidebarPath: "./sidebars.ts",
-          editUrl: "https://github.com/SGdevWeb/Bartime-doc/blob/main/",
+          // Pas de liens « Éditer cette page » : doc publique, sans édition
+          // externe.
           showLastUpdateAuthor: false,
           showLastUpdateTime: false,
         },
@@ -65,7 +66,9 @@ const config: Config = {
   themeConfig: {
     image: "img/logo.png",
     colorMode: {
-      respectPrefersColorScheme: true,
+      // Deux états seulement : clair ↔ sombre (pas de mode « auto »).
+      respectPrefersColorScheme: false,
+      defaultMode: "light",
     },
     navbar: {
       title: "BarTime",

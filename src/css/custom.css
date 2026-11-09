@@ -31,3 +31,44 @@
   --ifm-color-secondary: #4db3c0;
   --docusaurus-highlighted-code-line-bg: rgba(125, 180, 214, 0.15);
 }
+
+/* ── Bannière d'accueil : même bleu #457b9d en clair ET en sombre ──
+   (Infima lit --ifm-hero-background-color, qui suit la palette du mode ;
+   on l'épingle pour que le fond ne change jamais.) */
+.hero--primary {
+  --ifm-hero-background-color: #457b9d;
+  --ifm-hero-text-color: #ffffff;
+}
+
+/* ── Bouton CTA de la bannière : blanc, texte bleu, arrondi ── */
+.hero .button--secondary {
+  background-color: #ffffff;
+  border: 1px solid #ffffff;
+  border-radius: 0.6rem;
+  color: #457b9d;
+  font-weight: 700;
+  font-size: 1.05rem;
+  padding: 0.8rem 1.7rem;
+}
+
+.hero .button--secondary:hover {
+  background-color: #f0f6fa;
+  border-color: #f0f6fa;
+  color: #3d6e8c;
+}
+
+/* ── Recherche : champ plus large + résultats élargis ── */
+.navbar__search-input {
+  width: 18rem;
+}
+
+@media (max-width: 996px) {
+  .navbar__search-input {
+    width: 11rem;
+  }
+}
+
+:root {
+  --search-local-modal-width: 640px;
+  --search-local-modal-width-sm: 480px;
+}
