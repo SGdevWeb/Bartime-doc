@@ -9,7 +9,7 @@ Documentation officielle de BarTime, servie sur **https://doc.bartime.app**
 npm start        # serveur de dev (http://localhost:3000)
 npm run build    # build statique dans build/ (onBrokenLinks: throw)
 npm run serve    # prévisualise le build
-./deploy.sh      # build + rsync vers proxy:/var/www/bartime-docs/
+./deploy.sh      # build + déploiement (tar over ssh) vers proxy:/var/www/bartime-docs/
 ```
 
 ## Structure
@@ -29,7 +29,7 @@ docs/
   abonnement.md        — essai2 mois, formules, achat, résiliation
   faq.md
 static/img/logo.png    — icône de l'app (source : Bartime-front AppIcon)
-deploy.sh              — rsync build/ → proxy:/var/www/bartime-docs/
+deploy.sh              — build + tar over ssh → proxy:/var/www/bartime-docs/
 ```
 
 ## Conventions
@@ -52,10 +52,11 @@ deploy.sh              — rsync build/ → proxy:/var/www/bartime-docs/
 - Hébergé sur la VM **proxy** (`ssh proxy`, dans `~/.ssh/config`) :
   nginx `bartime-public.conf` → `root /var/www/bartime-docs` (cert
   Let's Encrypt déjà actif — **ne pas toucher au nginx**).
-- Déploiement : `./deploy.sh` (build + `rsync -av --delete build/
-proxy:/var/www/bartime-docs/`). Le dossier distant appartient à
-  `www-data` : un `chown -R sam:www-data` one-shot a été fait (à refaire
-  si les permissions sont réinitialisées).
+- Déploiement : `./deploy.sh` (build puis `tar over ssh` — rsync est
+  absent de proxy ; le script vide les contenus de
+  `/var/www/bartime-docs` puis extrait le build à la place). Le dossier
+  distant appartient à `sam:www-data` : un `chown -R sam:www-data`
+  one-shot a été fait (à refaire si les permissions sont réinitialisées).
 - Repository git : `git@github.com:SGdevWeb/Bartime-doc.git` (privé).
 
 ## Gotchas
