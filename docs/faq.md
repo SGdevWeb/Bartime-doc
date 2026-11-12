@@ -85,6 +85,7 @@ comptable.
 Oui : tous les exports sont disponibles depuis l'app, à tout moment.
 Vous pouvez aussi **supprimer votre compte** (Paramètres → Compte) —
 l'anonymisation conserve l'historique des transactions de l'association.
+[Voir la procédure complète et le détail des données conservées →](./suppression-de-compte)
 
 ### Où sont les conditions et la politique de confidentialité ?
 
